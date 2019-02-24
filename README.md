@@ -1,5 +1,5 @@
 ### POINTS: 2
-### KEY: Nice Joball the way around!
+### KEY: Nice Job all the way around!
 
 # Django templates
 
