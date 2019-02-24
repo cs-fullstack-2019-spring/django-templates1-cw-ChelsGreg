@@ -1,3 +1,6 @@
+### POINTS: 2
+### KEY: Nice Joball the way around!
+
 # Django templates
 
 Create a new movie application with a database model with name, yearReleased, ageAllowed, and genre attributes.
